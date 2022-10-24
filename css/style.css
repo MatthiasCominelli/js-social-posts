@@ -1,0 +1,17 @@
+body{
+    background-color: #0c2d46;
+}
+.container{
+    width: 600px;
+}
+h1{
+    
+    text-align: center;
+    color: white;
+}
+.avatar{
+    border-radius: 100%;
+}
+.blue{
+    color: steelblue;
+}
